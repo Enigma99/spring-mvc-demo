@@ -13,9 +13,8 @@
 <body>
     <h1>Hello World of Spring! </h1>
     <h2>
-        <p>
-            Student name: ${param.studentName}
-        </p>
+        <p>Student name: ${param.studentName}</p>
+        <p>The message: ${message}</p>
     </h2>
 </body>
 </html>
